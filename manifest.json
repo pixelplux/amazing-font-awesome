@@ -1,0 +1,102 @@
+{
+  "name": "Amazing font awesome",
+  "version": "0.0.1",
+  "icons": [
+    {
+      "name": "angle-double-down-solid",
+      "icon": "./icons/angle-double-down-solid.json"
+    },
+    {
+      "name": "angle-double-left-solid",
+      "icon": "./icons/angle-double-left-solid.json"
+    },
+    {
+      "name": "angle-double-right-solid",
+      "icon": "./icons/angle-double-right-solid.json"
+    },
+    {
+      "name": "angle-double-up-solid",
+      "icon": "./icons/angle-double-up-solid.json"
+    },
+    {
+      "name": "angle-down-solid",
+      "icon": "./icons/angle-down-solid.json"
+    },
+    {
+      "name": "angle-left-solid",
+      "icon": "./icons/angle-left-solid.json"
+    },
+    {
+      "name": "angle-right-solid",
+      "icon": "./icons/angle-right-solid.json"
+    },
+    {
+      "name": "angle-up-solid",
+      "icon": "./icons/angle-up-solid.json"
+    },
+    {
+      "name": "bell-solid",
+      "icon": "./icons/bell-solid.json"
+    },
+    {
+      "name": "check-solid-solid",
+      "icon": "./icons/check-solid-solid.json"
+    },
+    {
+      "name": "chevron-down-solid",
+      "icon": "./icons/chevron-down-solid.json"
+    },
+    {
+      "name": "chevron-left-solid",
+      "icon": "./icons/chevron-left-solid.json"
+    },
+    {
+      "name": "chevron-right-solid",
+      "icon": "./icons/chevron-right-solid.json"
+    },
+    {
+      "name": "chevron-up-solid",
+      "icon": "./icons/chevron-up-solid.json"
+    },
+    {
+      "name": "clock-regular",
+      "icon": "./icons/clock-regular.json"
+    },
+    {
+      "name": "comment-solid",
+      "icon": "./icons/comment-solid.json"
+    },
+    {
+      "name": "envelope-solid",
+      "icon": "./icons/envelope-solid.json"
+    },
+    {
+      "name": "home-solid",
+      "icon": "./icons/home-solid.json"
+    },
+    {
+      "name": "info-solid",
+      "icon": "./icons/info-solid.json"
+    },
+    {
+      "name": "map-marker-alt-solid",
+      "icon": "./icons/map-marker-alt-solid.json"
+    },
+    {
+      "name": "map-solid",
+      "icon": "./icons/map-solid.json"
+    },
+    {
+      "name": "phone-alt-solid",
+      "icon": "./icons/phone-alt-solid.json"
+    },
+    {
+      "name": "times-solid",
+      "icon": "./icons/times-solid.json"
+    },
+    {
+      "name": "trash-alt-solid",
+      "icon": "./icons/trash-alt-solid.json"
+    }
+  ]
+}
