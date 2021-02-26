@@ -97,6 +97,46 @@
     {
       "name": "trash-alt-solid",
       "icon": "./icons/trash-alt-solid.json"
+    },
+    {
+      "name": "cloud-meatball-solid",
+      "icon": "./icons/cloud-meatball-solid.json"
+    },
+    {
+      "name": "cloud-moon-rain-solid",
+      "icon": "./icons/cloud-moon-rain-solid.json"
+    },
+    {
+      "name": "cloud-moon-solid",
+      "icon": "./icons/cloud-moon-solid.json"
+    },
+    {
+      "name": "cloud-rain-solid",
+      "icon": "./icons/cloud-rain-solid.json"
+    },
+    {
+      "name": "cloud-showers-heavy-solid",
+      "icon": "./icons/cloud-showers-heavy-solid.json"
+    },
+    {
+      "name": "cloud-solid",
+      "icon": "./icons/cloud-solid.json"
+    },
+    {
+      "name": "cloud-sun-rain-solid",
+      "icon": "./icons/cloud-sun-rain-solid.json"
+    },
+    {
+      "name": "cloud-sun-solid",
+      "icon": "./icons/cloud-sun-solid.json"
+    },
+    {
+      "name": "moon-solid",
+      "icon": "./icons/moon-solid.json"
+    },
+    {
+      "name": "sun-solid",
+      "icon": "./icons/sun-solid.json"
     }
   ]
 }
